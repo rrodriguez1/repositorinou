@@ -2,7 +2,6 @@
  * paquetes importados MODIFICACION!!!OOO.
 * */
 import java.util.Scanner;
-//COMENTARIO NUEVO PROJECTE1 !!!!
 
 /**
  * paquetes importados.
